@@ -1,0 +1,22 @@
+Data Fields
+Country: The country where the wine is produced or sold. This field helps in regional analysis and comparisons.
+
+Example Values: France, Italy, USA, Australia
+Product: The name or type of the wine product. This could include varieties, brands, or specific wine labels.
+
+Example Values: Cabernet Sauvignon, Chardonnay, Merlot
+Manufacturing Details: Information about the production of the wine, such as the winery name, production date, or vintage year.
+
+Example Values: Chateau Margaux, 2020, Vintage
+Units Sold: The number of wine bottles or cases sold during a specific period. This field indicates sales performance and market demand.
+
+Example Values: 500 bottles, 150 cases
+Sales Revenue (Optional): The total revenue generated from the units sold. This field helps in analyzing financial performance.
+
+Example Values: $10,000, $25,000
+Rating (Optional): Average customer rating or review score for the wine product. This field provides insights into customer satisfaction.
+
+Example Values: 4.5/5, 3.8/5
+Stock Level (Optional): Current stock level or inventory count of the wine product. Useful for inventory management analysis.
+
+Example Values: 200 bottles, 50 cases
